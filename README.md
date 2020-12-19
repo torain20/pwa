@@ -1,2 +1,2 @@
 # pwa
-progressive web application where registered, logged in users can upload and share content
+progressive web application where registered users can upload and share content
